@@ -1,4 +1,5 @@
-﻿
+﻿CREATE DATABASE BaseFabricaDeSoftware;
+
 DECLARE @IdConfiguracao uniqueidentifier = NEWID();
 DECLARE @IdUsuario uniqueidentifier = NEWID();
 
